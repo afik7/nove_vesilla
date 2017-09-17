@@ -1,0 +1,129 @@
+
+body {
+  background: #FFF;
+  margin: 0px;
+  padding:0px;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.header{
+position:fixed;
+background:#000;
+width:100%;
+color:white;
+height:40px;
+}
+
+.logo{
+position:absolute;
+top:10px;
+left:30px;
+font-size:20px;
+}
+
+.logo a{
+text-decoration:none;
+color:#fff;
+}
+
+.auth{
+position:absolute;
+right: 100px;
+}
+
+.localization{
+position:absolute;
+top:10px;
+right:40px;
+}
+
+.localization img{
+width:30px;
+height:20px;
+}
+
+.container{
+margin:100px;
+}
+
+.menu{
+font-weight: bold;
+font-size: 14px;
+color:#000;
+
+}
+.butt{
+  background:red;
+  font-weight:bold;
+  font-size: 12px;
+  height:20px;
+  color: white;
+  border:none;
+  font-family: Arial, sans-serif; 
+  margin-right:30px;
+  border-radius:3px;
+}
+.box{
+   height: 20px;
+	background:#DCDCDC;
+	  color: #000;
+	  font-size: 12px;
+	  margin-top:10px;
+	  border:none;
+	  border-radius:3px;
+}
+
+.tre{
+border:15px solid transparent;
+border-top:15px solid black;}
+
+ a{
+   color: #ccc;
+ }
+ a:hover{
+   color: #ccc;
+ }
+
+p{
+	text-indent: 20px;
+	font-size: 14px;
+	text-align: justify;
+	text-justify: distribute;
+	line-height: 20px;
+}
+ul{
+	text-indent: 20px;
+	font-size: 14px;
+}
+th{
+	font-size: 14px;
+}
+.anc{
+	font-weight: bold;
+	 color: #FF9900;
+	  font-size: 11px;
+	  font-family: Arial, Helvetica, sans-serif;
+}
+textarea{
+	 background:#fff;
+	  color: #339933;
+	  font-size: 12px;
+	  border-style:1px, solid #ccc;
+}
+
+input{
+	background-color:#fff;
+	padding-left:5px;
+}
+.tab{
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-collapse: separate;
+	border-bottom-color: #000;
+	margin: 0px;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;		
+}
